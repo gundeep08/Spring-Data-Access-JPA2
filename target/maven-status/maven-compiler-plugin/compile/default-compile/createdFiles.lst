@@ -1,0 +1,11 @@
+com/book/publish/entities/Category.class
+com/book/publish/DeleteRecentlySavedBookWithAuthor.class
+com/book/publish/BookService.class
+com/book/publish/entities/Book.class
+com/book/publish/FindAllBooks.class
+com/book/publish/FindBookDetailsByBookId.class
+com/book/publish/BookRepository.class
+com/book/publish/entities/Author.class
+com/book/publish/CategoryRepository.class
+com/book/publish/BookServiceImpl.class
+com/book/publish/InsertBookNewAuthorExistingCategory.class
